@@ -1,0 +1,46 @@
+
+div.ctutorial{
+    margin-top: 25px;
+}
+div.ctutorial p{
+    font-size: 13px;
+}
+div.ctutorial h4{
+    font-size: 2em;
+}
+div.ctutorial a button{
+    color: black;
+}
+section.tutorial{
+    position: absolute;
+}
+div.cpptutorial{
+    margin-right: 980px;
+}
+div.cpptutorial p{
+    font-size: 13px;
+}
+div.cpptutorial h4{
+    font-size: 2em;
+}
+div.cpptutorial a button{
+    color: black;
+}
+div.dsatutorial{
+    margin-top: -546px;
+    margin-left: 1100px;
+}
+div.dsatutorial p{
+    font-size: 13px;
+}
+div.dsatutorial h4{
+    font-size: 2em;
+}
+div.dsatutorial a button{
+    color: black;
+}
+footer.tutorialfooter{
+    background: rgb(1, 5, 83);
+    color: white;
+    top: 1279px;
+}

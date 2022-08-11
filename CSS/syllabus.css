@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(151, 94, 141);
+}
+
+li {
+    font-size: 2em;
+}
+
+section.syllabus img {
+    height: 1000px;
+    width: 100%;
+
+}
+
+section.syllabus section {
+    position: absolute;
+}
+footer.syllabusfooter{
+    background: rgb(1, 5, 83);
+    color: white;
+    top: 1140px;
+}
